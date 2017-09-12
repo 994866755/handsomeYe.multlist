@@ -162,3 +162,9 @@ public class MultiDetailsViewHolder extends RecyclerView.ViewHolder {
 ```
 
 都不是很难，这里的adapter要继承我的BaseMultiAdapter，至于怎么创建和做什么操作，都和该控件无关。
+
+### 三.文档地址
+
+http://www.jianshu.com/p/d5fb5d6fe4d1
+
+
